@@ -24,7 +24,7 @@ export default function Index() {
           style={{
             backgroundColor: "blue",
             padding: 10,
-            borderRadius: 5,
+            borderRadius: 45,
           }}
           onPress={sumar}
         >
